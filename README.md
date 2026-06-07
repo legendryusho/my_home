@@ -1,6 +1,4 @@
----
 theme: jekyll-theme-minimal
----
 # 📰 ryushooo新聞
 
 ## 【速報】自分だけのホームページ、ついに開通！
